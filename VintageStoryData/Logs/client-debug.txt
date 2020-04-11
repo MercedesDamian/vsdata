@@ -1,0 +1,113 @@
+22.3.2020 21:04:36 [Debug] Creating game window with window mode Fullscreen
+22.3.2020 21:04:37 [VerboseDebug] Loadsounds, step 1
+22.3.2020 21:04:37 [VerboseDebug] Loadsounds, step 2
+22.3.2020 21:04:37 [VerboseDebug] Loadsounds, step 3
+22.3.2020 21:04:39 [VerboseDebug] [VSCreativeMod.dll] Check for mod systems in mod E:\Users\mdami\AppData\Roaming\Vintagestory\Mods\VSCreativeMod.dll
+22.3.2020 21:04:39 [VerboseDebug] [VSCreativeMod.dll] Loaded assembly E:\Users\mdami\AppData\Roaming\Vintagestory\Mods\VSCreativeMod.dll
+22.3.2020 21:04:39 [VerboseDebug] [VSEssentials.dll] Check for mod systems in mod E:\Users\mdami\AppData\Roaming\Vintagestory\Mods\VSEssentials.dll
+22.3.2020 21:04:39 [VerboseDebug] [VSEssentials.dll] Loaded assembly E:\Users\mdami\AppData\Roaming\Vintagestory\Mods\VSEssentials.dll
+22.3.2020 21:04:39 [VerboseDebug] [VSSurvivalMod.dll] Check for mod systems in mod E:\Users\mdami\AppData\Roaming\Vintagestory\Mods\VSSurvivalMod.dll
+22.3.2020 21:04:39 [VerboseDebug] [VSSurvivalMod.dll] Loaded assembly E:\Users\mdami\AppData\Roaming\Vintagestory\Mods\VSSurvivalMod.dll
+22.3.2020 21:04:39 [VerboseDebug] GuiElementRichtext: before bounds: 8.125/-5  w/h = 187.5,18.75
+22.3.2020 21:04:39 [VerboseDebug] GuiElementRichtext, add comp 0, posY=0, lineHeight=0
+22.3.2020 21:04:39 [VerboseDebug] GuiElementRichtext, Comp bounds 0 w/h: 95/14.159375
+22.3.2020 21:04:39 [VerboseDebug] GuiElementRichtext, add comp 1, posY=0, lineHeight=14.159375
+22.3.2020 21:04:39 [VerboseDebug] GuiElementRichtext, Comp bounds 0 w/h: 0/14.159375
+22.3.2020 21:04:39 [VerboseDebug] GuiElementRichtext, add comp 2, posY=15, lineHeight=0
+22.3.2020 21:04:39 [VerboseDebug] GuiElementRichtext, Comp bounds 0 w/h: 85/14.159375
+22.3.2020 21:04:39 [VerboseDebug] GuiElementRichtext, add comp 3, posY=15, lineHeight=14.159375
+22.3.2020 21:04:39 [VerboseDebug] GuiElementRichtext, Comp bounds 0 w/h: 2.25/14.159375
+22.3.2020 21:04:39 [VerboseDebug] GuiElementRichtext, add comp 4, posY=15, lineHeight=14.159375
+22.3.2020 21:04:39 [VerboseDebug] GuiElementRichtext, Comp bounds 0 w/h: 34/14.159375
+22.3.2020 21:04:39 [VerboseDebug] GuiElementRichtext: after loop. posY = 15
+22.3.2020 21:04:39 [VerboseDebug] GuiElementRichtext: after bounds: 8.125/-5  w/h = 187.5,18.75
+22.3.2020 21:04:39 [VerboseDebug] GuiElementRichtext: posY = 29.159375
+22.3.2020 21:04:39 [VerboseDebug] GuiElementRichtext: framewidth/height: 1360/768
+22.3.2020 21:04:39 [VerboseDebug] Left bottom main menu text is at 8.125/732.840625 w/h 187.5,30.159375
+22.3.2020 21:04:43 [VerboseDebug] [VSCreativeMod.dll] Check for mod systems in mod E:\Users\mdami\AppData\Roaming\Vintagestory\Mods\VSCreativeMod.dll
+22.3.2020 21:04:43 [VerboseDebug] [VSCreativeMod.dll] Loaded assembly E:\Users\mdami\AppData\Roaming\Vintagestory\Mods\VSCreativeMod.dll
+22.3.2020 21:04:43 [VerboseDebug] [VSEssentials.dll] Check for mod systems in mod E:\Users\mdami\AppData\Roaming\Vintagestory\Mods\VSEssentials.dll
+22.3.2020 21:04:43 [VerboseDebug] [VSEssentials.dll] Loaded assembly E:\Users\mdami\AppData\Roaming\Vintagestory\Mods\VSEssentials.dll
+22.3.2020 21:04:43 [VerboseDebug] [VSSurvivalMod.dll] Check for mod systems in mod E:\Users\mdami\AppData\Roaming\Vintagestory\Mods\VSSurvivalMod.dll
+22.3.2020 21:04:43 [VerboseDebug] [VSSurvivalMod.dll] Loaded assembly E:\Users\mdami\AppData\Roaming\Vintagestory\Mods\VSSurvivalMod.dll
+22.3.2020 21:04:43 [VerboseDebug] 3 assemblies loaded
+22.3.2020 21:04:43 [VerboseDebug] Instantiate mod systems for
+22.3.2020 21:04:43 [VerboseDebug] Instantiate mod systems for
+22.3.2020 21:04:43 [VerboseDebug] Instantiate mod systems for
+22.3.2020 21:04:43 [VerboseDebug] Loadsounds, step 1
+22.3.2020 21:04:43 [VerboseDebug] Loadsounds, step 2
+22.3.2020 21:04:47 [VerboseDebug] Loadsounds, step 3
+22.3.2020 21:04:47 [VerboseDebug] Received server ident
+22.3.2020 21:04:47 [VerboseDebug] Received light levels
+22.3.2020 21:04:53 [VerboseDebug] BlockTypes parsed
+22.3.2020 21:04:53 [VerboseDebug] Call to OnServerBlocksItemsReceived
+22.3.2020 21:04:53 [VerboseDebug] OnServerBlocksItemsReceived after block resolve
+22.3.2020 21:04:53 [VerboseDebug] Calling OnServerAssetsReceived
+22.3.2020 21:04:53 [VerboseDebug] [LoadShapes] Scouring though blocks and items for shapes to tesselate
+22.3.2020 21:04:53 [VerboseDebug] [LoadShapes] Search through blocks...
+22.3.2020 21:04:53 [VerboseDebug] Search through items...
+22.3.2020 21:04:53 [VerboseDebug] [LoadShapes] Load 688 shape assets...
+22.3.2020 21:05:03 [VerboseDebug] EntityTypes parsed
+22.3.2020 21:05:03 [VerboseDebug] Received player data for playeruid SRxfZBBbgYLiAXIQah1BRyAr
+22.3.2020 21:05:03 [VerboseDebug] Received inventory contents hotbar-SRxfZBBbgYLiAXIQah1BRyAr
+22.3.2020 21:05:03 [VerboseDebug] Received inventory contents creative-SRxfZBBbgYLiAXIQah1BRyAr
+22.3.2020 21:05:04 [VerboseDebug] Received inventory contents backpack-SRxfZBBbgYLiAXIQah1BRyAr
+22.3.2020 21:05:04 [VerboseDebug] Received inventory contents ground-SRxfZBBbgYLiAXIQah1BRyAr
+22.3.2020 21:05:04 [VerboseDebug] Received inventory contents mouse-SRxfZBBbgYLiAXIQah1BRyAr
+22.3.2020 21:05:04 [VerboseDebug] Received inventory contents craftinggrid-SRxfZBBbgYLiAXIQah1BRyAr
+22.3.2020 21:05:04 [VerboseDebug] Received inventory contents character-SRxfZBBbgYLiAXIQah1BRyAr
+22.3.2020 21:05:05 [VerboseDebug] Received player data for playeruid WHhQubUv+kjBky8Kn4Nqiss+
+22.3.2020 21:05:05 [VerboseDebug] Received inventory contents hotbar-WHhQubUv+kjBky8Kn4Nqiss+
+22.3.2020 21:05:05 [VerboseDebug] Received inventory contents backpack-WHhQubUv+kjBky8Kn4Nqiss+
+22.3.2020 21:05:05 [VerboseDebug] Received inventory contents character-WHhQubUv+kjBky8Kn4Nqiss+
+22.3.2020 21:05:06 [VerboseDebug] Could not find climate map for region coord 0,0. Looks like the server didn't send it. Tinted blocks might be incorrectly colored.
+22.3.2020 21:05:06 [VerboseDebug] Received player data for playeruid WHhQubUv+kjBky8Kn4Nqiss+
+22.3.2020 21:05:06 [VerboseDebug] Received inventory contents hotbar-WHhQubUv+kjBky8Kn4Nqiss+
+22.3.2020 21:05:06 [VerboseDebug] Received inventory contents backpack-WHhQubUv+kjBky8Kn4Nqiss+
+22.3.2020 21:05:06 [VerboseDebug] Received inventory contents character-WHhQubUv+kjBky8Kn4Nqiss+
+22.3.2020 21:05:21 [VerboseDebug] Entities and pool locations removed. Removing from chunk dict
+22.3.2020 21:05:27 [VerboseDebug] Entities and pool locations removed. Removing from chunk dict
+22.3.2020 21:05:35 [VerboseDebug] Entities and pool locations removed. Removing from chunk dict
+22.3.2020 21:05:56 [VerboseDebug] Entities and pool locations removed. Removing from chunk dict
+22.3.2020 21:06:04 [VerboseDebug] Entities and pool locations removed. Removing from chunk dict
+22.3.2020 21:09:58 [VerboseDebug] Entities and pool locations removed. Removing from chunk dict
+22.3.2020 21:12:13 [VerboseDebug] Entities and pool locations removed. Removing from chunk dict
+22.3.2020 21:12:15 [VerboseDebug] Entities and pool locations removed. Removing from chunk dict
+22.3.2020 21:12:15 [VerboseDebug] Entities and pool locations removed. Removing from chunk dict
+22.3.2020 21:12:16 [VerboseDebug] Entities and pool locations removed. Removing from chunk dict
+22.3.2020 21:12:17 [VerboseDebug] Entities and pool locations removed. Removing from chunk dict
+22.3.2020 21:12:19 [VerboseDebug] Entities and pool locations removed. Removing from chunk dict
+22.3.2020 21:12:32 [VerboseDebug] Entities and pool locations removed. Removing from chunk dict
+22.3.2020 21:12:45 [VerboseDebug] Received inventory contents mouse-SRxfZBBbgYLiAXIQah1BRyAr
+22.3.2020 21:12:45 [VerboseDebug] Received inventory contents ground-SRxfZBBbgYLiAXIQah1BRyAr
+22.3.2020 21:13:02 [VerboseDebug] Entities and pool locations removed. Removing from chunk dict
+22.3.2020 21:13:09 [VerboseDebug] Entities and pool locations removed. Removing from chunk dict
+22.3.2020 21:15:11 [VerboseDebug] Received player data for playeruid WHhQubUv+kjBky8Kn4Nqiss+
+22.3.2020 21:15:11 [VerboseDebug] Received inventory contents hotbar-WHhQubUv+kjBky8Kn4Nqiss+
+22.3.2020 21:15:11 [VerboseDebug] Received inventory contents backpack-WHhQubUv+kjBky8Kn4Nqiss+
+22.3.2020 21:15:11 [VerboseDebug] Received inventory contents character-WHhQubUv+kjBky8Kn4Nqiss+
+22.3.2020 21:16:58 [VerboseDebug] Select clay from recipe 4, have 26 recipes.
+22.3.2020 21:22:16 [VerboseDebug] Received player data for playeruid WHhQubUv+kjBky8Kn4Nqiss+
+22.3.2020 21:22:16 [VerboseDebug] Received inventory contents hotbar-WHhQubUv+kjBky8Kn4Nqiss+
+22.3.2020 21:22:16 [VerboseDebug] Received inventory contents backpack-WHhQubUv+kjBky8Kn4Nqiss+
+22.3.2020 21:22:16 [VerboseDebug] Received inventory contents character-WHhQubUv+kjBky8Kn4Nqiss+
+22.3.2020 21:27:09 [VerboseDebug] Entities and pool locations removed. Removing from chunk dict
+22.3.2020 21:27:09 [VerboseDebug] Entities and pool locations removed. Removing from chunk dict
+22.3.2020 21:27:10 [VerboseDebug] Entities and pool locations removed. Removing from chunk dict
+22.3.2020 21:27:12 [VerboseDebug] Entities and pool locations removed. Removing from chunk dict
+22.3.2020 21:35:58 [VerboseDebug] GuiElementRichtext: before bounds: 8.125/-5  w/h = 187.5,18.75
+22.3.2020 21:35:58 [VerboseDebug] GuiElementRichtext, add comp 0, posY=0, lineHeight=0
+22.3.2020 21:35:58 [VerboseDebug] GuiElementRichtext, Comp bounds 0 w/h: 95/14.159375
+22.3.2020 21:35:58 [VerboseDebug] GuiElementRichtext, add comp 1, posY=0, lineHeight=14.159375
+22.3.2020 21:35:58 [VerboseDebug] GuiElementRichtext, Comp bounds 0 w/h: 0/14.159375
+22.3.2020 21:35:58 [VerboseDebug] GuiElementRichtext, add comp 2, posY=15, lineHeight=0
+22.3.2020 21:35:58 [VerboseDebug] GuiElementRichtext, Comp bounds 0 w/h: 85/14.159375
+22.3.2020 21:35:58 [VerboseDebug] GuiElementRichtext, add comp 3, posY=15, lineHeight=14.159375
+22.3.2020 21:35:58 [VerboseDebug] GuiElementRichtext, Comp bounds 0 w/h: 2.25/14.159375
+22.3.2020 21:35:58 [VerboseDebug] GuiElementRichtext, add comp 4, posY=15, lineHeight=14.159375
+22.3.2020 21:35:58 [VerboseDebug] GuiElementRichtext, Comp bounds 0 w/h: 34/14.159375
+22.3.2020 21:35:58 [VerboseDebug] GuiElementRichtext: after loop. posY = 15
+22.3.2020 21:35:58 [VerboseDebug] GuiElementRichtext: after bounds: 8.125/-5  w/h = 187.5,18.75
+22.3.2020 21:35:58 [VerboseDebug] GuiElementRichtext: posY = 29.159375
+22.3.2020 21:35:58 [VerboseDebug] GuiElementRichtext: framewidth/height: 1360/768
+22.3.2020 21:35:58 [VerboseDebug] Left bottom main menu text is at 8.125/732.840625 w/h 187.5,30.159375

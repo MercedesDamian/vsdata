@@ -1,0 +1,24 @@
+22.3.2020 21:05:05 [Chat] Saving game world.... @ -1
+22.3.2020 21:05:05 [Chat] Welcome Sadie, may you survive well and prosper @ 0
+22.3.2020 21:05:21 [Chat] Gained 17.45963 hp through heal @ -5
+22.3.2020 21:06:57 [Chat] Lost 5 hp by a boar @ -5
+22.3.2020 21:08:02 [Chat] Lost 5 hp by a boar @ -5
+22.3.2020 21:08:49 [Chat] Lost 5 hp by a boar @ -5
+22.3.2020 21:10:02 [Chat] Saving game world.... @ -1
+22.3.2020 21:12:54 [Chat] Lost 2 hp through fire @ -5
+22.3.2020 21:12:55 [Chat] Lost 2 hp through fire @ -5
+22.3.2020 21:12:55 [Chat] Player Sadie got killed by fire. @ 0
+22.3.2020 21:13:02 [Chat] Gained 16.27778 hp through heal @ -5
+22.3.2020 21:13:19 [Chat] Lost 2 hp through fire @ -5
+22.3.2020 21:13:20 [Chat] Lost 2 hp through fire @ -5
+22.3.2020 21:13:21 [Chat] Lost 2 hp through fire @ -5
+22.3.2020 21:15:03 [Chat] Saving game world.... @ -1
+22.3.2020 21:20:04 [Chat] Saving game world.... @ -1
+22.3.2020 21:25:06 [Chat] Saving game world.... @ -1
+22.3.2020 21:30:00 [Chat] Lost 0.125 hp through hunger @ -5
+22.3.2020 21:30:06 [Chat] Lost 0.125 hp through hunger @ -5
+22.3.2020 21:30:07 [Chat] Saving game world.... @ -1
+22.3.2020 21:30:13 [Chat] Lost 0.125 hp through hunger @ -5
+22.3.2020 21:30:19 [Chat] Lost 0.125 hp through hunger @ -5
+22.3.2020 21:30:25 [Chat] Lost 0.125 hp through hunger @ -5
+22.3.2020 21:35:08 [Chat] Saving game world.... @ -1

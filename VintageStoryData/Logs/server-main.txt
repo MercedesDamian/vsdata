@@ -1,0 +1,214 @@
+20.3.2020 03:20:24 [Notification] Server logger started.
+20.3.2020 03:20:24 [Notification] Game Version: v1.12.8 (Stable)
+20.3.2020 03:20:24 [Event] Launching server...
+20.3.2020 03:20:24 [Event] Server v1.12.8, network v1.12.6, api v1.7.0
+20.3.2020 03:20:24 [Notification] Entering runphase Initialization
+20.3.2020 03:20:24 [Event] Loading configuration...
+20.3.2020 03:20:24 [Notification] Entering runphase Configuration
+20.3.2020 03:20:24 [Notification] Loading savegame
+20.3.2020 03:20:24 [Notification] Loaded existing save game data. Playstyle: surviveandbuild, Playstyle Lang code: surviveandbuild-bands, WorldType: surviveandbuild-bands
+20.3.2020 03:20:24 [Notification] Savegame C:\Users\mdami\AppData\Roaming\VintagestoryData\Saves\default.vcdbs loaded
+20.3.2020 03:20:24 [Notification] World size = 1000000 256 1000000
+20.3.2020 03:20:24 [Event] Loading assets...
+20.3.2020 03:20:24 [Notification] Start discovering assets
+20.3.2020 03:20:24 [Notification] Found 0 base assets in category blocktypes
+20.3.2020 03:20:24 [Notification] Found 0 base assets in category itemtypes
+20.3.2020 03:20:24 [Notification] Found 7 base assets in category lang
+20.3.2020 03:20:24 [Notification] Found 0 base assets in category journal
+20.3.2020 03:20:24 [Notification] Found 0 base assets in category patches
+20.3.2020 03:20:24 [Notification] Found 16 base assets in category config
+20.3.2020 03:20:24 [Notification] Found 0 base assets in category worldproperties
+20.3.2020 03:20:24 [Notification] Found 31 base assets in category sounds
+20.3.2020 03:20:24 [Notification] Found 2 base assets in category shapes
+20.3.2020 03:20:24 [Notification] Found 60 base assets in category textures
+20.3.2020 03:20:24 [Notification] Found 0 base assets in category recipes
+20.3.2020 03:20:24 [Notification] Found 0 base assets in category worldgen
+20.3.2020 03:20:24 [Notification] Found 1 base assets in category entities
+20.3.2020 03:20:24 [Notification] Found 117 base assets in total
+20.3.2020 03:20:24 [Notification] Entering runphase LoadAssets
+20.3.2020 03:20:24 [Notification] Will search the following paths for mods:
+20.3.2020 03:20:24 [Notification]     E:\Users\mdami\AppData\Roaming\Vintagestory\Mods
+20.3.2020 03:20:24 [Notification]     C:\Users\mdami\AppData\Roaming\VintagestoryData\Mods
+20.3.2020 03:20:24 [Notification] Found 3 mods (0 disabled)
+20.3.2020 03:20:24 [Notification] Mods, sorted by dependency: game, creative, survival
+20.3.2020 03:20:24 [Notification] Instantiated 56 mod systems from 3 enabled mods
+20.3.2020 03:20:24 [Notification] External Origins in load order: custom@E:\Users\mdami\AppData\Roaming\Vintagestory\assets\creative\, custom@E:\Users\mdami\AppData\Roaming\Vintagestory\assets\survival\
+20.3.2020 03:20:24 [Notification] Found 237 external assets in category blocktypes
+20.3.2020 03:20:24 [Notification] Found 144 external assets in category itemtypes
+20.3.2020 03:20:24 [Notification] Found 0 external assets in category lang
+20.3.2020 03:20:24 [Notification] Found 10 external assets in category journal
+20.3.2020 03:20:24 [Notification] Found 10 external assets in category patches
+20.3.2020 03:20:25 [Notification] Found 10 external assets in category config
+20.3.2020 03:20:25 [Notification] Found 22 external assets in category worldproperties
+20.3.2020 03:20:25 [Notification] Found 254 external assets in category sounds
+20.3.2020 03:20:26 [Notification] Found 954 external assets in category shapes
+20.3.2020 03:20:27 [Notification] Found 2615 external assets in category textures
+20.3.2020 03:20:27 [Notification] Found 214 external assets in category recipes
+20.3.2020 03:20:28 [Notification] Found 308 external assets in category worldgen
+20.3.2020 03:20:28 [Notification] Found 51 external assets in category entities
+20.3.2020 03:20:28 [Notification] Reloaded lang file with mod assets
+20.3.2020 03:20:28 [Event] Loading save game...
+20.3.2020 03:20:28 [Notification] Entering runphase LoadGamePre
+20.3.2020 03:20:28 [Notification] JsonPatch Loader: Nothing to patch
+20.3.2020 03:20:28 [Notification] Reloaded 26 weather patterns and 5 wind patterns
+20.3.2020 03:20:40 [Notification] BlockLoader: Entities, Blocks and Items loaded
+20.3.2020 03:20:40 [Notification] Started 51 systems on Server:
+20.3.2020 03:20:40 [Notification]     Mod 'VSEssentials.dll' (game):
+20.3.2020 03:20:40 [Notification]         Vintagestory.ServerMods.Core
+20.3.2020 03:20:40 [Notification]         Vintagestory.GameContent.EntityPartitioning
+20.3.2020 03:20:40 [Notification]         Vintagestory.GameContent.ErrorReporter
+20.3.2020 03:20:40 [Notification]         Vintagestory.ServerMods.NoObf.ModJsonPatchLoader
+20.3.2020 03:20:40 [Notification]         Vintagestory.Essentials.PathfindSystem
+20.3.2020 03:20:40 [Notification]         Vintagestory.Essentials.PathFindDebug
+20.3.2020 03:20:40 [Notification]         Vintagestory.ServerMods.JsonExport
+20.3.2020 03:20:40 [Notification]         Vintagestory.ServerMods.ModBasicBlocksLoader
+20.3.2020 03:20:40 [Notification]         Vintagestory.GameContent.LeafBlockDecay
+20.3.2020 03:20:40 [Notification]         Vintagestory.GameContent.POIRegistry
+20.3.2020 03:20:40 [Notification]         Vintagestory.GameContent.RoomRegistry
+20.3.2020 03:20:40 [Notification]         Vintagestory.GameContent.WeatherSystemCommands
+20.3.2020 03:20:40 [Notification]         Vintagestory.GameContent.WeatherSystemServer
+20.3.2020 03:20:40 [Notification]         Vintagestory.GameContent.WorldMapManager
+20.3.2020 03:20:40 [Notification]         Vintagestory.ServerMods.NoObf.ModRegistryObjectTypeLoader
+20.3.2020 03:20:40 [Notification]         Vintagestory.ServerMods.RecipeLoader
+20.3.2020 03:20:40 [Notification]     Mod 'VSSurvivalMod.dll' (survival):
+20.3.2020 03:20:40 [Notification]         Vintagestory.ServerMods.GenPatchesPrePass
+20.3.2020 03:20:40 [Notification]         Vintagestory.ServerMods.SaplingControl
+20.3.2020 03:20:40 [Notification]         Vintagestory.ServerMods.GenSnowLayer
+20.3.2020 03:20:40 [Notification]         Vintagestory.ServerMods.GenTerra
+20.3.2020 03:20:40 [Notification]         Vintagestory.GameContent.CoreSystem
+20.3.2020 03:20:40 [Notification]         Vintagestory.ServerMods.GenTerraPostProcess
+20.3.2020 03:20:40 [Notification]         VSSurvivalMod.Systems.GameEffects
+20.3.2020 03:20:40 [Notification]         Vintagestory.ServerMods.GenFromHeightmap
+20.3.2020 03:20:40 [Notification]         Vintagestory.ServerMods.GenRockStrataNew
+20.3.2020 03:20:40 [Notification]         Vintagestory.ServerMods.NpcControl
+20.3.2020 03:20:40 [Notification]         Vintagestory.ServerMods.GenCreatures
+20.3.2020 03:20:40 [Notification]         Vintagestory.ServerMods.GenMaps
+20.3.2020 03:20:40 [Notification]         Vintagestory.ServerMods.WgenCommands
+20.3.2020 03:20:40 [Notification]         Vintagestory.GameContent.SystemRaccoonSpawnCondition
+20.3.2020 03:20:40 [Notification]         Vintagestory.GameContent.SystemTemporalStability
+20.3.2020 03:20:40 [Notification]         Vintagestory.GameContent.ModSystemWearableStats
+20.3.2020 03:20:40 [Notification]         Vintagestory.GameContent.ModSystemBlockReinforcement
+20.3.2020 03:20:40 [Notification]         Vintagestory.GameContent.ModJournal
+20.3.2020 03:20:40 [Notification]         Vintagestory.GameContent.ModLootRandomizer
+20.3.2020 03:20:40 [Notification]         Vintagestory.GameContent.ModSleeping
+20.3.2020 03:20:40 [Notification]         Vintagestory.GameContent.TeleporterManager
+20.3.2020 03:20:40 [Notification]         Vintagestory.GameContent.Mechanics.MechanicalPowerMod
+20.3.2020 03:20:40 [Notification]         Vintagestory.ServerMods.GenDeposits
+20.3.2020 03:20:40 [Notification]         Vintagestory.ServerMods.GenStructures
+20.3.2020 03:20:40 [Notification]         Vintagestory.ServerMods.GenCaves
+20.3.2020 03:20:40 [Notification]         Vintagestory.ServerMods.GenBlockLayers
+20.3.2020 03:20:40 [Notification]         Vintagestory.ServerMods.GenPonds
+20.3.2020 03:20:40 [Notification]         Vintagestory.ServerMods.GenStructuresPosPass
+20.3.2020 03:20:40 [Notification]         Vintagestory.ServerMods.GenVegetation
+20.3.2020 03:20:40 [Notification]         Vintagestory.ServerMods.GenRivulets
+20.3.2020 03:20:40 [Notification]         Vintagestory.ServerMods.GenLightSurvival
+20.3.2020 03:20:40 [Notification]     Mod 'VSCreativeMod.dll' (creative):
+20.3.2020 03:20:40 [Notification]         Vintagestory.ServerMods.Core
+20.3.2020 03:20:40 [Notification]         Vintagestory.ServerMods.WorldEdit.WorldEdit
+20.3.2020 03:20:40 [Notification]         Vintagestory.ServerMods.GenBlockLayersFlat
+20.3.2020 03:20:40 [Notification]         Vintagestory.ServerMods.GenLightCreative
+20.3.2020 03:20:45 [Event] 5 metal alloys loaded
+20.3.2020 03:20:45 [Event] 5 cooking recipes loaded
+20.3.2020 03:20:45 [Event] 219 crafting recipes loaded from 132 files
+20.3.2020 03:20:45 [Event] 149 smithing recipes loaded
+20.3.2020 03:20:46 [Event] 52 clay forming recipes loaded
+20.3.2020 03:20:46 [Event] 31 knapping recipes loaded
+20.3.2020 03:20:46 [Event] 41 barrel recipes loaded
+20.3.2020 03:20:49 [Notification] Reloaded 25 tree generators
+20.3.2020 03:20:49 [Event] Loading 7x7x8 spawn chunks...
+20.3.2020 03:20:49 [Event] 0% (49 in queue)
+20.3.2020 03:20:51 [Notification] Server map set
+20.3.2020 03:20:51 [Notification] Entering runphase LoadGame
+20.3.2020 03:20:51 [Event] Begin save game ticking...
+20.3.2020 03:20:51 [Notification] Entering runphase RunGame
+20.3.2020 03:20:51 [Notification] Will watch mod folder Mods for changes
+20.3.2020 03:20:51 [Notification] Will watch mod folder C:\Users\mdami\AppData\Roaming\VintagestoryData\Mods for changes
+20.3.2020 03:20:51 [Notification] Starting server threads
+20.3.2020 03:20:51 [Event] Singleplayer Server now running!
+20.3.2020 03:20:51 [Notification] All clients disconnected, pausing game calendar.
+20.3.2020 03:20:51 [Notification] A Client attempts connecting via Dummy connection
+20.3.2020 03:20:51 [Notification] Client uid SRxfZBBbgYLiAXIQah1BRyAr attempting identification. Name: Sadie
+20.3.2020 03:20:51 [Notification] Delayed join, need to load one spawn chunk first.
+20.3.2020 03:20:51 [Notification] Placing player at 500183.781280106 114 499866.0625
+20.3.2020 03:21:00 [Warning] Server overloaded. A tick took 1375ms to complete.
+20.3.2020 03:21:00 [Notification] Unloaded 312 chunks.
+20.3.2020 03:21:26 [Event] Sadie 127.0.0.1 joins.
+20.3.2020 03:21:28 [Notification] A client reconnected, resuming game calendar.
+20.3.2020 03:21:41 [Notification] Handling Command /gamemode 2
+20.3.2020 03:22:23 [Notification] Handling Command /gamemode 1
+20.3.2020 03:24:52 [Notification] Unloaded 72 chunks.
+20.3.2020 03:25:19 [Notification] Unloaded 72 chunks.
+20.3.2020 03:25:25 [Notification] Server ticking has been suspended
+20.3.2020 03:25:25 [Notification] Autosaving game world. Notifying mods, then systems of save...
+20.3.2020 03:25:25 [Notification] Defragmented listener lists
+20.3.2020 03:25:25 [Event] Mods and systems notified, now saving everything...
+20.3.2020 03:25:25 [Event] Will do delayed savegamedata saving...
+20.3.2020 03:25:25 [Event] Saved player world data...
+20.3.2020 03:25:25 [Event] Saved map regions...
+20.3.2020 03:25:25 [Event] Saved map chunks...
+20.3.2020 03:25:25 [Event] World saved! Saved 0 chunks, 1 mapchunks, 0 mapregions.
+20.3.2020 03:25:25 [Notification] A client reconnected, resuming game calendar.
+20.3.2020 03:25:25 [Notification] Server ticking has been resumed
+20.3.2020 03:25:25 [Event] Delayed save of savegame done.
+20.3.2020 03:25:25 [Event] Delayed save of 105 chunks done.
+20.3.2020 03:25:25 [Notification] Delayed save of 0 generating chunks done.
+20.3.2020 03:25:49 [Notification] Unloaded 72 chunks.
+20.3.2020 03:30:27 [Notification] Server ticking has been suspended
+20.3.2020 03:30:27 [Notification] Autosaving game world. Notifying mods, then systems of save...
+20.3.2020 03:30:27 [Notification] Defragmented listener lists
+20.3.2020 03:30:27 [Event] Mods and systems notified, now saving everything...
+20.3.2020 03:30:27 [Event] Will do delayed savegamedata saving...
+20.3.2020 03:30:27 [Event] Saved player world data...
+20.3.2020 03:30:27 [Event] Saved map regions...
+20.3.2020 03:30:27 [Event] Saved map chunks...
+20.3.2020 03:30:27 [Event] World saved! Saved 0 chunks, 1 mapchunks, 0 mapregions.
+20.3.2020 03:30:27 [Notification] A client reconnected, resuming game calendar.
+20.3.2020 03:30:27 [Notification] Server ticking has been resumed
+20.3.2020 03:30:27 [Event] Delayed save of savegame done.
+20.3.2020 03:30:27 [Event] Delayed save of 122 chunks done.
+20.3.2020 03:30:27 [Notification] Delayed save of 0 generating chunks done.
+20.3.2020 03:35:28 [Notification] Server ticking has been suspended
+20.3.2020 03:35:28 [Notification] Autosaving game world. Notifying mods, then systems of save...
+20.3.2020 03:35:28 [Notification] Defragmented listener lists
+20.3.2020 03:35:28 [Event] Mods and systems notified, now saving everything...
+20.3.2020 03:35:28 [Event] Will do delayed savegamedata saving...
+20.3.2020 03:35:28 [Event] Saved player world data...
+20.3.2020 03:35:28 [Event] Saved map regions...
+20.3.2020 03:35:28 [Event] Saved map chunks...
+20.3.2020 03:35:28 [Event] World saved! Saved 0 chunks, 1 mapchunks, 0 mapregions.
+20.3.2020 03:35:28 [Notification] A client reconnected, resuming game calendar.
+20.3.2020 03:35:28 [Notification] Server ticking has been resumed
+20.3.2020 03:35:28 [Event] Delayed save of savegame done.
+20.3.2020 03:35:29 [Event] Delayed save of 117 chunks done.
+20.3.2020 03:35:29 [Notification] Delayed save of 0 generating chunks done.
+20.3.2020 03:40:30 [Notification] Server ticking has been suspended
+20.3.2020 03:40:30 [Notification] Autosaving game world. Notifying mods, then systems of save...
+20.3.2020 03:40:30 [Notification] Defragmented listener lists
+20.3.2020 03:40:30 [Event] Mods and systems notified, now saving everything...
+20.3.2020 03:40:30 [Event] Will do delayed savegamedata saving...
+20.3.2020 03:40:30 [Event] Saved player world data...
+20.3.2020 03:40:30 [Event] Saved map regions...
+20.3.2020 03:40:30 [Event] Saved map chunks...
+20.3.2020 03:40:30 [Event] World saved! Saved 0 chunks, 0 mapchunks, 0 mapregions.
+20.3.2020 03:40:30 [Notification] A client reconnected, resuming game calendar.
+20.3.2020 03:40:30 [Notification] Server ticking has been resumed
+20.3.2020 03:40:30 [Event] Delayed save of savegame done.
+20.3.2020 03:40:30 [Event] Delayed save of 108 chunks done.
+20.3.2020 03:40:30 [Notification] Delayed save of 0 generating chunks done.
+20.3.2020 03:44:50 [Notification] Server ticking has been suspended
+20.3.2020 03:44:51 [Notification] Server stop requested, begin shutdown sequence. Stop reason: Exit request by client
+20.3.2020 03:44:51 [Notification] Entering runphase Shutdown
+20.3.2020 03:44:51 [Notification] Defragmented listener lists
+20.3.2020 03:44:51 [Event] Mods and systems notified, now saving everything...
+20.3.2020 03:44:51 [Event] Saved savegamedata...
+20.3.2020 03:44:51 [Event] Saved player world data...
+20.3.2020 03:44:51 [Event] Saved map regions...
+20.3.2020 03:44:51 [Event] Saved map chunks...
+20.3.2020 03:44:51 [Event] Saved loaded chunks...
+20.3.2020 03:44:51 [Event] Saved generating chunks...
+20.3.2020 03:44:51 [Event] World saved! Saved 111 chunks, 2 mapchunks, 0 mapregions.
+20.3.2020 03:44:51 [Event] Shutting down 5 server threads... 
+20.3.2020 03:44:51 [Event] Killed console thread
+20.3.2020 03:44:52 [Event] All threads gracefully shut down
+20.3.2020 03:44:52 [Event] Doing last tick...
+20.3.2020 03:44:52 [Event] Stopped the server!

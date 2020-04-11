@@ -1,0 +1,213 @@
+{
+  "keyMapping": {
+    "sneak": {
+      "KeyCode": 3,
+      "SecondKeyCode": null,
+      "Ctrl": false,
+      "Alt": false,
+      "Shift": false
+    },
+    "sprint": {
+      "KeyCode": 1,
+      "SecondKeyCode": null,
+      "Ctrl": false,
+      "Alt": false,
+      "Shift": false
+    }
+  },
+  "dialogPositions": {
+    "playercharacter": {
+      "X": 1349,
+      "Y": 645
+    },
+    "handbook-detail": {
+      "X": 1291,
+      "Y": 365
+    },
+    "blockentityinventory500182, 114, 499865": {
+      "X": 1222,
+      "Y": 376
+    },
+    "blockentityinventory500181, 115, 499863": {
+      "X": 1261,
+      "Y": 234
+    },
+    "blockentityinventory500181, 115, 499867": {
+      "X": 1253,
+      "Y": 214
+    },
+    "blockentityinventory500170, 115, 499870": {
+      "X": 890,
+      "Y": 764
+    },
+    "blockentityinventory500171, 115, 499870": {
+      "X": 988,
+      "Y": 214
+    },
+    "blockentityinventory500181, 115, 499864": {
+      "X": 1131,
+      "Y": 764
+    },
+    "blockentityinventory500169, 115, 499870": {
+      "X": 1300,
+      "Y": 498
+    },
+    "inventory-backpack": {
+      "X": 208,
+      "Y": 305
+    },
+    "handbook-overview": {
+      "X": 1031,
+      "Y": 437
+    },
+    "blockentityinventory500181, 115, 499866": {
+      "X": 1362,
+      "Y": 455
+    },
+    "blockentityinventory500182, 110, 499862": {
+      "X": 1060,
+      "Y": 764
+    },
+    "blockentityinventory500181, 110, 499862": {
+      "X": 722,
+      "Y": 473
+    },
+    "traderdialog-humanoid-trader-survivalgoods": {
+      "X": 1230,
+      "Y": 406
+    },
+    "traderdialog-humanoid-trader-treasurehunter": {
+      "X": 1356,
+      "Y": 365
+    },
+    "blockentityinventory500190, 116, 499879": {
+      "X": 1044,
+      "Y": 537
+    },
+    "blockentityinventory499228, 118, 500747": {
+      "X": 1199,
+      "Y": 641
+    }
+  },
+  "stringSettings": {
+    "language": "en",
+    "recordingCodec": "rawv",
+    "glContextVersion": "3.3",
+    "mptoken": "pgftDsBtpZuSBrjAXIGBU1F/PGaQClJL0AAxpMDbODA=",
+    "sessionkey": "Wi3Db6BhK/1cNGh+SIOOrgfcUndClHw+hboMl02Kz2M=",
+    "sessionsignature": "V1jAMmKUDYt5xG8DRH1vZoUHQe6plm+w/A7sWDIMYO7QePct/iTp0WJIuOHghnHqBuRQZItSpec/ZhdCPMwtTyhqbi0w9/m6D/kkOB4TNwuKTj9RRXysNYxFmas9XpIP4/+TAyuKr7iafvD98a15+b4FprRoizYqBAx1DOEgBnQ=",
+    "useremail": "sadiebug27@gmail.com",
+    "entitlements": null,
+    "masterserverUrl": "https://masterserver.vintagestory.at/api/v1/servers/",
+    "playeruid": "SRxfZBBbgYLiAXIQah1BRyAr",
+    "playername": "Sadie",
+    "settingsVersion": "1.2"
+  },
+  "intSettings": {
+    "mipmapLevel": 4,
+    "musicFrequency": 0,
+    "graphicsPresetId": 11,
+    "shadowMapQuality": 0,
+    "viewDistance": 128,
+    "fieldOfView": 70,
+    "maxFps": 30,
+    "particleLevel": 50,
+    "maxDynamicLights": 5,
+    "weirdMacOSMouseYOffset": 5,
+    "soundLevel": 100,
+    "ambientSoundLevel": 100,
+    "musicLevel": 1,
+    "screenWidth": 10,
+    "screenHeight": 10,
+    "gameWindowMode": 1,
+    "maxQuadParticles": 8000,
+    "maxCubeParticles": 4000,
+    "maxAsyncQuadParticles": 80000,
+    "maxAsyncCubeParticles": 80000,
+    "mouseSmoothing": 30,
+    "mouseSensivity": 50,
+    "modelDataPoolMaxVertexSize": 500000,
+    "modelDataPoolMaxIndexSize": 750000,
+    "modelDataPoolMaxParts": 1500,
+    "maxTextureAtlasWidth": 4096,
+    "maxTextureAtlasHeight": 2048,
+    "ambientBloomLevel": 20,
+    "godRays": 0,
+    "chatWindowWidth": 700,
+    "chatWindowHeight": 200,
+    "recordingBufferSize": 60,
+    "vsyncMode": 1,
+    "schematicMaxUploadSizeKb": 75
+  },
+  "boolSettings": {
+    "showMoreGfxOptions": true,
+    "multipleInstances": false,
+    "showSurvivalHelpDialog": false,
+    "showCreativeHelpDialog": true,
+    "smoothShadows": true,
+    "flipScreenshot": true,
+    "renderClouds": true,
+    "renderParticles": true,
+    "transparentRenderPass": true,
+    "extendedDebugInfo": false,
+    "showentitydebuginfo": false,
+    "showBlockInfoHud": true,
+    "showBlockInteractionHelp": false,
+    "showCoordinateHud": true,
+    "wavingStuff": false,
+    "renderMetaBlocks": false,
+    "ambientParticles": true,
+    "pauseGameOnLostFocus": false,
+    "viewBobbing": true,
+    "invertMouseYAxis": false,
+    "highQualityAnimations": true,
+    "optimizeRam": true,
+    "occlusionculling": true,
+    "developerMode": false,
+    "glDebugMode": false,
+    "showWhitelistedServers": false,
+    "showPasswordProtectedServers": true,
+    "showOpenForAllServers": false,
+    "liquidFoamAndShinyEffect": false,
+    "fxaa": false,
+    "autoChat": true,
+    "bloom": false,
+    "skipNvidiaProfileCheck": false,
+    "scaleScreenshot": true,
+    "immersiveMouseMode": false,
+    "startupErrorDialog": false,
+    "showMinimapHud": true,
+    "chatdialogvisible": false
+  },
+  "floatSettings": {
+    "guiScale": 0.625,
+    "fontSize": 1.0,
+    "lodBias": 0.25,
+    "blockAtlasSubPixelPadding": 0.01,
+    "itemAtlasSubPixelPadding": 0.0,
+    "gammaLevel": 2.2,
+    "extraGammaLevel": 1.0,
+    "brightnessLevel": 1.0,
+    "sepiaLevel": 0.2,
+    "cameraShakeStrength": 1.0,
+    "mouseWheelSensivity": 1.0,
+    "recordingFrameRate": 30.0,
+    "gameTickFrameRate": -1.0,
+    "ssaa": 1.0,
+    "megaScreenshotSizeMul": 4.0
+  },
+  "stringListSettings": {
+    "multiplayerservers": [
+      "Foggy Dewdrop Village,51.161.13.126:25585,1088",
+      "Izzy,67.181.8.59,1088",
+      "Branditos,137.25.21.36,"
+    ],
+    "disabledMods": [],
+    "dialogPositions": [],
+    "modPaths": [
+      "Mods",
+      "C:\\Users\\mdami\\AppData\\Roaming\\VintagestoryData\\Mods"
+    ],
+    "customPlayStyles": []
+  }
+}

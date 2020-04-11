@@ -1,0 +1,273 @@
+22.3.2020 21:04:36 [Notification] Client logger started.
+22.3.2020 21:04:36 [Notification] Game Version: v1.12.8 (Stable)
+22.3.2020 21:04:37 [Notification] Graphics Card Vendor: NVIDIA Corporation
+22.3.2020 21:04:37 [Notification] Graphics Card Version: 3.3.0 NVIDIA 442.19
+22.3.2020 21:04:37 [Notification] Graphics Card Renderer: GeForce GTX 1060 6GB/PCIe/SSE2
+22.3.2020 21:04:37 [Notification] Graphics Card ShadingLanguageVersion: 3.30 NVIDIA via Cg compiler
+22.3.2020 21:04:37 [Notification] Cairo Graphics Version: 1.15.10
+22.3.2020 21:04:37 [Notification] OpenAL Version: 1.1 ALSOFT 1.16.0
+22.3.2020 21:04:37 [Notification] C# Framework: .net Framework 4.0.30319.42000
+22.3.2020 21:04:37 [Notification] OpenTK Version: 3.1.0 (A set of fast, low-level C# bindings for OpenGL, OpenGL ES and OpenAL.)
+22.3.2020 21:04:37 [Notification] Start discovering assets
+22.3.2020 21:04:37 [Notification] Found 7 base assets in category lang
+22.3.2020 21:04:37 [Notification] Found 0 base assets in category journal
+22.3.2020 21:04:37 [Notification] Found 0 base assets in category patches
+22.3.2020 21:04:37 [Notification] Found 16 base assets in category config
+22.3.2020 21:04:37 [Notification] Found 0 base assets in category worldproperties
+22.3.2020 21:04:37 [Notification] Found 31 base assets in category sounds
+22.3.2020 21:04:37 [Notification] Found 2 base assets in category shapes
+22.3.2020 21:04:37 [Notification] Found 72 base assets in category shaders
+22.3.2020 21:04:37 [Notification] Found 13 base assets in category shaderincludes
+22.3.2020 21:04:37 [Notification] Found 60 base assets in category textures
+22.3.2020 21:04:37 [Notification] Found 3 base assets in category music
+22.3.2020 21:04:37 [Notification] Found 0 base assets in category dialog
+22.3.2020 21:04:37 [Notification] Found 204 base assets in total
+22.3.2020 21:04:37 [Notification] Loading sounds
+22.3.2020 21:04:37 [Notification] (Re-)loaded frame buffers
+22.3.2020 21:04:37 [Notification] Loaded Shaderprogramm for render pass . 
+22.3.2020 21:04:37 [Notification] CPU Cores: 6
+22.3.2020 21:04:37 [Notification] Window was resized to 1360 768, rebuilding framebuffers...
+22.3.2020 21:04:37 [Notification] (Re-)loaded frame buffers
+22.3.2020 21:04:37 [Notification] Waiting for async sound loading...
+22.3.2020 21:04:37 [Notification] Sounds loaded
+22.3.2020 21:04:37 [Notification] Begin loading shaders
+22.3.2020 21:04:37 [Notification] Loading shaders...
+22.3.2020 21:04:37 [Notification] Loaded Shaderprogramm for render pass standard. 
+22.3.2020 21:04:37 [Notification] Shader standard: Uniform locations for variables dontWarpVertices, addRenderFlags, shadowRangeFar, toShadowMapSpaceMatrixFar, shadowRangeNear, toShadowMapSpaceMatrixNear, viewDistance, viewDistanceLod0, windWaveCounter, waterWaveCounter, windSpeed, playerpos, globalWarpIntensity, glitchStrength, windWaveIntensity, zNear, zFar, shadowMapFar, shadowIntensity, shadowMapWidthInv, shadowMapHeightInv, shadowMapNear not found (or not used).
+22.3.2020 21:04:37 [Notification] Loaded Shaderprogramm for render pass particlescube. 
+22.3.2020 21:04:37 [Notification] Shader particlescube: Uniform locations for variables shadowRangeFar, toShadowMapSpaceMatrixFar, shadowRangeNear, toShadowMapSpaceMatrixNear, viewDistance, viewDistanceLod0, windWaveCounter, waterWaveCounter, windSpeed, playerpos, globalWarpIntensity, glitchStrength, windWaveIntensity, zNear, zFar, lightPosition, shadowMapFar, shadowIntensity, shadowMapWidthInv, shadowMapHeightInv, shadowMapNear not found (or not used).
+22.3.2020 21:04:37 [Notification] Loaded Shaderprogramm for render pass particlesquad. 
+22.3.2020 21:04:37 [Notification] Shader particlesquad: Uniform locations for variables shadowRangeFar, toShadowMapSpaceMatrixFar, shadowRangeNear, toShadowMapSpaceMatrixNear, viewDistance, viewDistanceLod0, windWaveCounter, waterWaveCounter, windSpeed, playerpos, globalWarpIntensity, glitchStrength, windWaveIntensity, particleTex, zNear, zFar, lightPosition, shadowMapFar, shadowIntensity, shadowMapWidthInv, shadowMapHeightInv, shadowMapNear not found (or not used).
+22.3.2020 21:04:37 [Notification] Loaded Shaderprogramm for render pass sky. 
+22.3.2020 21:04:37 [Notification] Shader sky: Uniform locations for variables rgbaAmbientIn, shadowRangeFar, toShadowMapSpaceMatrixFar, shadowRangeNear, toShadowMapSpaceMatrixNear, viewDistance, viewDistanceLod0, glitchStrengthFL, pointLights, pointLightColors, pointLightQuantity, playerPos, zNear, zFar, lightPosition, shadowMapFar, shadowIntensity, shadowMapWidthInv, shadowMapHeightInv, shadowMapNear not found (or not used).
+22.3.2020 21:04:37 [Notification] Loaded Shaderprogramm for render pass nightsky. 
+22.3.2020 21:04:37 [Notification] Shader nightsky: Uniform locations for variables shadowRangeFar, toShadowMapSpaceMatrixFar, shadowRangeNear, toShadowMapSpaceMatrixNear, flatFogDensity, flatFogStart, viewDistance, viewDistanceLod0, glitchStrengthFL, pointLights, pointLightColors, pointLightQuantity, rgbaFog, horizonFog, playerToSealevelOffset, fogDensityIn, fogMinIn, zNear, zFar, lightPosition, shadowMapFar, shadowIntensity, shadowMapWidthInv, shadowMapHeightInv, shadowMapNear not found (or not used).
+22.3.2020 21:04:37 [Notification] Loaded Shaderprogramm for render pass woittest. 
+22.3.2020 21:04:37 [Notification] Loaded Shaderprogramm for render pass transparentcompose. 
+22.3.2020 21:04:37 [Notification] Loaded Shaderprogramm for render pass debugdepthbuffer. 
+22.3.2020 21:04:37 [Notification] Loaded Shaderprogramm for render pass helditem. 
+22.3.2020 21:04:37 [Notification] Shader helditem: Uniform locations for variables shadowRangeFar, toShadowMapSpaceMatrixFar, shadowRangeNear, toShadowMapSpaceMatrixNear, flatFogDensity, flatFogStart, viewDistance, viewDistanceLod0 not found (or not used).
+22.3.2020 21:04:37 [Notification] Loaded Shaderprogramm for render pass chunkopaque. 
+22.3.2020 21:04:37 [Notification] Shader chunkopaque: Uniform locations for variables shadowRangeFar, toShadowMapSpaceMatrixFar, shadowRangeNear, toShadowMapSpaceMatrixNear, windWaveCounter, waterWaveCounter, windSpeed, playerpos, globalWarpIntensity, glitchStrength, windWaveIntensity, zNear, zFar, shadowMapFar, shadowIntensity, shadowMapWidthInv, shadowMapHeightInv, shadowMapNear not found (or not used).
+22.3.2020 21:04:37 [Notification] Loaded Shaderprogramm for render pass multitexturetest. 
+22.3.2020 21:04:37 [Notification] Loaded Shaderprogramm for render pass chunkliquid. 
+22.3.2020 21:04:37 [Notification] Shader chunkliquid: Uniform locations for variables playerViewVec, shadowRangeFar, toShadowMapSpaceMatrixFar, shadowRangeNear, toShadowMapSpaceMatrixNear, viewDistanceLod0, windWaveCounter, waterWaveCounter, windSpeed, globalWarpIntensity, glitchStrength, windWaveIntensity, depthTex, frameSize, zNear, zFar, lightPosition, shadowMapFar, shadowIntensity, shadowMapWidthInv, shadowMapHeightInv, shadowMapNear not found (or not used).
+22.3.2020 21:04:37 [Notification] Loaded Shaderprogramm for render pass decals. 
+22.3.2020 21:04:37 [Notification] Shader decals: Uniform locations for variables shadowRangeFar, toShadowMapSpaceMatrixFar, shadowRangeNear, toShadowMapSpaceMatrixNear, viewDistance, viewDistanceLod0, windWaveCounter, waterWaveCounter, windSpeed, playerpos, globalWarpIntensity, glitchStrength, windWaveIntensity not found (or not used).
+22.3.2020 21:04:37 [Notification] Loaded Shaderprogramm for render pass final. 
+22.3.2020 21:04:37 [Notification] Shader final: Uniform locations for variables sunPosScreenIn, sunPos3dIn, playerViewVector, glowParts, bloomParts, godrayParts not found (or not used).
+22.3.2020 21:04:37 [Notification] Loaded Shaderprogramm for render pass gui. 
+22.3.2020 21:04:37 [Notification] Shader gui: Uniform locations for variables flatFogDensity, flatFogStart, viewDistance, viewDistanceLod0, glitchStrengthFL, pointLights, pointLightColors, pointLightQuantity not found (or not used).
+22.3.2020 21:04:37 [Notification] Loaded Shaderprogramm for render pass blur. 
+22.3.2020 21:04:37 [Notification] Loaded Shaderprogramm for render pass chunktransparent. 
+22.3.2020 21:04:37 [Notification] Shader chunktransparent: Uniform locations for variables shadowRangeFar, toShadowMapSpaceMatrixFar, shadowRangeNear, toShadowMapSpaceMatrixNear, viewDistanceLod0, windWaveCounter, waterWaveCounter, windSpeed, playerpos, globalWarpIntensity, glitchStrength, windWaveIntensity, zNear, zFar, shadowMapFar, shadowIntensity, shadowMapWidthInv, shadowMapHeightInv, shadowMapNear not found (or not used).
+22.3.2020 21:04:37 [Notification] Loaded Shaderprogramm for render pass findbright. 
+22.3.2020 21:04:37 [Notification] Loaded Shaderprogramm for render pass chunktopsoil. 
+22.3.2020 21:04:37 [Notification] Shader chunktopsoil: Uniform locations for variables shadowRangeFar, toShadowMapSpaceMatrixFar, shadowRangeNear, toShadowMapSpaceMatrixNear, viewDistanceLod0, windWaveCounter, waterWaveCounter, windSpeed, playerpos, globalWarpIntensity, glitchStrength, windWaveIntensity, zNear, zFar, shadowMapFar, shadowIntensity, shadowMapWidthInv, shadowMapHeightInv, shadowMapNear not found (or not used).
+22.3.2020 21:04:37 [Notification] Loaded Shaderprogramm for render pass godrays. 
+22.3.2020 21:04:37 [Notification] Shader godrays: Uniform locations for variables invFrameSizeIn, directionIn not found (or not used).
+22.3.2020 21:04:37 [Notification] Loaded Shaderprogramm for render pass autocamera. 
+22.3.2020 21:04:37 [Notification] Shader autocamera: Uniform locations for variables shadowRangeFar, toShadowMapSpaceMatrixFar, shadowRangeNear, toShadowMapSpaceMatrixNear, flatFogDensity, flatFogStart, viewDistance, viewDistanceLod0 not found (or not used).
+22.3.2020 21:04:37 [Notification] Loaded Shaderprogramm for render pass blockhighlights. 
+22.3.2020 21:04:37 [Notification] Shader blockhighlights: Uniform locations for variables shadowRangeFar, toShadowMapSpaceMatrixFar, shadowRangeNear, toShadowMapSpaceMatrixNear, flatFogDensity, flatFogStart, viewDistance, viewDistanceLod0, particleTex, zNear, zFar, lightPosition, shadowMapFar, shadowIntensity, shadowMapWidthInv, shadowMapHeightInv, shadowMapNear not found (or not used).
+22.3.2020 21:04:37 [Notification] Loaded Shaderprogramm for render pass wireframe. 
+22.3.2020 21:04:37 [Notification] Shader wireframe: Uniform locations for variables shadowRangeFar, toShadowMapSpaceMatrixFar, shadowRangeNear, toShadowMapSpaceMatrixNear, flatFogDensity, flatFogStart, viewDistance, viewDistanceLod0, glitchStrengthFL, pointLights, pointLightColors, pointLightQuantity, windWaveCounter, waterWaveCounter, windSpeed, playerpos, globalWarpIntensity, glitchStrength, windWaveIntensity not found (or not used).
+22.3.2020 21:04:37 [Notification] Loaded Shaderprogramm for render pass entityanimated. 
+22.3.2020 21:04:37 [Notification] Shader entityanimated: Uniform locations for variables addRenderFlags, shadowRangeFar, toShadowMapSpaceMatrixFar, shadowRangeNear, toShadowMapSpaceMatrixNear, viewDistanceLod0, waterWaveCounter, windSpeed, playerpos, globalWarpIntensity, glitchStrength, windWaveIntensity, zNear, zFar, shadowMapFar, shadowIntensity, shadowMapWidthInv, shadowMapHeightInv, shadowMapNear not found (or not used).
+22.3.2020 21:04:37 [Notification] Loaded Shaderprogramm for render pass luma. 
+22.3.2020 21:04:37 [Notification] Loaded Shaderprogramm for render pass blit. 
+22.3.2020 21:04:37 [Notification] Loaded Shaderprogramm for render pass particlesquad2d. 
+22.3.2020 21:04:37 [Notification] Loaded Shaderprogramm for render pass shadowmapentityanimated. 
+22.3.2020 21:04:37 [Notification] Shader shadowmapentityanimated: Uniform locations for variables addRenderFlags not found (or not used).
+22.3.2020 21:04:37 [Notification] Loaded Shaderprogramm for render pass shadowmapgeneric. 
+22.3.2020 21:04:37 [Notification] Shader shadowmapgeneric: Uniform locations for variables windWaveCounter, waterWaveCounter, windSpeed, playerpos, globalWarpIntensity, glitchStrength, windWaveIntensity not found (or not used).
+22.3.2020 21:04:37 [Notification] Loaded Shaderprogramm for render pass texture2texture. 
+22.3.2020 21:04:37 [Notification] Loaded Shaderprogramm for render pass celestialobject. 
+22.3.2020 21:04:37 [Notification] Shader celestialobject: Uniform locations for variables rgbaAmbientIn, shadowRangeFar, toShadowMapSpaceMatrixFar, shadowRangeNear, toShadowMapSpaceMatrixNear, viewDistance, viewDistanceLod0, glitchStrengthFL, pointLights, pointLightColors, pointLightQuantity, zNear, zFar, lightPosition, shadowMapFar, shadowIntensity, shadowMapWidthInv, shadowMapHeightInv, shadowMapNear not found (or not used).
+22.3.2020 21:04:37 [Notification] Loaded Shaderprogramm for render pass guitopsoil. 
+22.3.2020 21:04:37 [Notification] Shader guitopsoil: Uniform locations for variables rgbaIn, extraGlow, applyColor, noTexture, alphaTest not found (or not used).
+22.3.2020 21:04:37 [Notification] Loaded Shaderprogramm for render pass entityanimatedtransparent. 
+22.3.2020 21:04:37 [Notification] Shader entityanimatedtransparent: Uniform locations for variables rgbaFogIn, fogMinIn, fogDensityIn, addRenderFlags, shadowRangeFar, toShadowMapSpaceMatrixFar, shadowRangeNear, toShadowMapSpaceMatrixNear, flatFogDensity, flatFogStart, viewDistance, viewDistanceLod0, windWaveCounter, waterWaveCounter, windSpeed, playerpos, globalWarpIntensity, glitchStrength, windWaveIntensity, zNear, zFar, lightPosition, shadowMapFar, shadowIntensity, shadowMapWidthInv, shadowMapHeightInv, shadowMapNear not found (or not used).
+22.3.2020 21:04:37 [Notification] Loaded Shaderprogramm for render pass colorgrade. 
+22.3.2020 21:04:37 [Notification] Shader colorgrade: Uniform locations for variables brightnessLevel not found (or not used).
+22.3.2020 21:04:37 [Notification] Loaded Shaderprogramm for render pass guigear. 
+22.3.2020 21:04:37 [Notification] Cached session key is valid, validating with server
+22.3.2020 21:04:39 [Notification] Server validation response: Good
+22.3.2020 21:04:39 [Notification] Will search the following paths for mods:
+22.3.2020 21:04:39 [Notification]     E:\Users\mdami\AppData\Roaming\Vintagestory\Mods
+22.3.2020 21:04:39 [Notification]     C:\Users\mdami\AppData\Roaming\VintagestoryData\Mods
+22.3.2020 21:04:42 [Notification] Initialized GUI Manager
+22.3.2020 21:04:42 [Notification] Initialized Server Connection
+22.3.2020 21:04:42 [Notification] GuiScreenConnectingToServer constructed
+22.3.2020 21:04:42 [Notification] Connected to server, downloading data...
+0 kilobyte received
+22.3.2020 21:04:43 [Notification] Loading and pre-starting client side mods...
+22.3.2020 21:04:43 [Notification] Will search the following paths for mods:
+22.3.2020 21:04:43 [Notification]     E:\Users\mdami\AppData\Roaming\Vintagestory\Mods
+22.3.2020 21:04:43 [Notification]     C:\Users\mdami\AppData\Roaming\VintagestoryData\Mods
+22.3.2020 21:04:43 [Notification] Found 3 mods (0 disabled)
+22.3.2020 21:04:43 [Notification] Mods, sorted by dependency: game, creative, survival
+22.3.2020 21:04:43 [Notification] Instantiated 56 mod systems from 3 enabled mods
+22.3.2020 21:04:43 [Notification] Done loading and pre-starting client side mods.
+22.3.2020 21:04:43 [Notification] External Origins in load order: custom@E:\Users\mdami\AppData\Roaming\Vintagestory\assets\creative\, custom@E:\Users\mdami\AppData\Roaming\Vintagestory\assets\survival\
+22.3.2020 21:04:43 [Notification] Found 0 external assets in category lang
+22.3.2020 21:04:43 [Notification] Found 10 external assets in category journal
+22.3.2020 21:04:43 [Notification] Found 10 external assets in category patches
+22.3.2020 21:04:43 [Notification] Found 10 external assets in category config
+22.3.2020 21:04:43 [Notification] Found 22 external assets in category worldproperties
+22.3.2020 21:04:43 [Notification] Found 254 external assets in category sounds
+22.3.2020 21:04:43 [Notification] Found 954 external assets in category shapes
+22.3.2020 21:04:43 [Notification] Found 6 external assets in category shaders
+22.3.2020 21:04:43 [Notification] Found 0 external assets in category shaderincludes
+22.3.2020 21:04:43 [Notification] Found 2615 external assets in category textures
+22.3.2020 21:04:43 [Notification] Found 57 external assets in category music
+22.3.2020 21:04:43 [Notification] Found 17 external assets in category dialog
+22.3.2020 21:04:43 [Notification] Reloaded lang file now with mod assets
+22.3.2020 21:04:47 [Notification] Reloaded sounds now with mod assets
+22.3.2020 21:04:47 [Notification] Loaded Shaderprogramm for render pass anvilworkitem. 
+22.3.2020 21:04:47 [Notification] Shader anvilworkitem: Uniform locations for variables dontWarpVertices, addRenderFlags, shadowRangeFar, toShadowMapSpaceMatrixFar, shadowRangeNear, toShadowMapSpaceMatrixNear, viewDistance, viewDistanceLod0, windWaveCounter, waterWaveCounter, windSpeed, playerpos, globalWarpIntensity, glitchStrength, windWaveIntensity, zNear, zFar, shadowMapFar, shadowIntensity, shadowMapWidthInv, shadowMapHeightInv, shadowMapNear not found (or not used).
+22.3.2020 21:04:47 [Notification] JsonPatch Loader: Nothing to patch
+22.3.2020 21:04:47 [Notification] Reloaded 26 weather patterns and 5 wind patterns
+22.3.2020 21:04:47 [Notification] Loaded Shaderprogramm for render pass aurora. 
+22.3.2020 21:04:47 [Notification] Shader aurora: Uniform locations for variables rgbaTint, rgbaAmbientIn, rgbaLightIn, rgbaBlockIn, rgbaFogIn, fogMinIn, fogDensityIn, flatFogDensity, flatFogStart, viewDistance, viewDistanceLod0, glitchStrengthFL, pointLights, pointLightColors, pointLightQuantity, tex, zNear, zFar, lightPosition, shadowMapFar, shadowIntensity, shadowMapWidthInv, shadowMapHeightInv, shadowMapNear not found (or not used).
+22.3.2020 21:04:47 [Notification] Loaded Shaderprogramm for render pass sleepoverlay. 
+22.3.2020 21:04:47 [Notification] Started 28 systems on Client:
+22.3.2020 21:04:47 [Notification]     Mod 'VSEssentials.dll' (game):
+22.3.2020 21:04:47 [Notification]         Vintagestory.ServerMods.Core
+22.3.2020 21:04:47 [Notification]         Vintagestory.GameContent.EntityPartitioning
+22.3.2020 21:04:47 [Notification]         Vintagestory.GameContent.ErrorReporter
+22.3.2020 21:04:47 [Notification]         Vintagestory.ServerMods.NoObf.ModJsonPatchLoader
+22.3.2020 21:04:47 [Notification]         Vintagestory.GameContent.EntityNameTagRendererRegistry
+22.3.2020 21:04:47 [Notification]         Vintagestory.GameContent.ModSystemHandbook
+22.3.2020 21:04:47 [Notification]         Vintagestory.GameContent.RoomRegistry
+22.3.2020 21:04:47 [Notification]         Vintagestory.GameContent.WeatherSystemCommands
+22.3.2020 21:04:47 [Notification]         Vintagestory.GameContent.WeatherSystemClient
+22.3.2020 21:04:47 [Notification]         Vintagestory.GameContent.WorldMapManager
+22.3.2020 21:04:47 [Notification]     Mod 'VSSurvivalMod.dll' (survival):
+22.3.2020 21:04:47 [Notification]         Vintagestory.ServerMods.SaplingControl
+22.3.2020 21:04:47 [Notification]         Vintagestory.GameContent.CoreSystem
+22.3.2020 21:04:47 [Notification]         VSSurvivalMod.Systems.GameEffects
+22.3.2020 21:04:47 [Notification]         Vintagestory.ServerMods.GenFromHeightmap
+22.3.2020 21:04:47 [Notification]         Vintagestory.ServerMods.ChiselBlockModelCache
+22.3.2020 21:04:47 [Notification]         Vintagestory.GameContent.SystemTemporalStability
+22.3.2020 21:04:47 [Notification]         Vintagestory.GameContent.MealMeshCache
+22.3.2020 21:04:47 [Notification]         Vintagestory.GameContent.ModSystemWearableStats
+22.3.2020 21:04:47 [Notification]         Vintagestory.GameContent.ModSystemBlockReinforcement
+22.3.2020 21:04:47 [Notification]         Vintagestory.GameContent.ModJournal
+22.3.2020 21:04:47 [Notification]         Vintagestory.GameContent.ModLootRandomizer
+22.3.2020 21:04:47 [Notification]         Vintagestory.GameContent.ModSleeping
+22.3.2020 21:04:47 [Notification]         Vintagestory.GameContent.TeleporterManager
+22.3.2020 21:04:47 [Notification]         Vintagestory.GameContent.Mechanics.MechanicalPowerMod
+22.3.2020 21:04:47 [Notification]         Vintagestory.ServerMods.GenStructures
+22.3.2020 21:04:47 [Notification]         Vintagestory.ServerMods.GenStructuresPosPass
+22.3.2020 21:04:47 [Notification]     Mod 'VSCreativeMod.dll' (creative):
+22.3.2020 21:04:47 [Notification]         Vintagestory.ServerMods.Core
+22.3.2020 21:04:47 [Notification]         Vintagestory.ServerMods.WorldEdit.WorldEdit
+22.3.2020 21:04:47 [Notification] Processed server identification
+22.3.2020 21:04:47 [Notification] Map initialized
+22.3.2020 21:04:47 [Notification] Connected to server, downloading data...
+1 kilobyte received
+22.3.2020 21:04:47 [Notification] Received level init
+22.3.2020 21:04:48 [Notification] Connected to server, downloading data...
+12 kilobyte received
+22.3.2020 21:04:48 [Notification] Connected to server, downloading data...
+46 kilobyte received
+22.3.2020 21:04:48 [Notification] Connected to server, downloading data...
+90 kilobyte received
+22.3.2020 21:04:49 [Notification] Connected to server, downloading data...
+98 kilobyte received
+22.3.2020 21:04:49 [Notification] Connected to server, downloading data...
+106 kilobyte received
+22.3.2020 21:04:49 [Notification] Connected to server, downloading data...
+114 kilobyte received
+22.3.2020 21:04:49 [Notification] Connected to server, downloading data...
+139 kilobyte received
+22.3.2020 21:04:49 [Notification] Connected to server, downloading data...
+157 kilobyte received
+22.3.2020 21:04:50 [Notification] Connected to server, downloading data...
+165 kilobyte received
+22.3.2020 21:04:50 [Notification] Connected to server, downloading data...
+175 kilobyte received
+22.3.2020 21:04:50 [Notification] Connected to server, downloading data...
+214 kilobyte received
+22.3.2020 21:04:50 [Notification] Connected to server, downloading data...
+242 kilobyte received
+22.3.2020 21:04:51 [Notification] Connected to server, downloading data...
+250 kilobyte received
+22.3.2020 21:04:51 [Notification] Connected to server, downloading data...
+266 kilobyte received
+22.3.2020 21:04:52 [Notification] Connected to server, downloading data...
+291 kilobyte received
+22.3.2020 21:04:52 [Notification] Connected to server, downloading data...
+313 kilobyte received
+22.3.2020 21:04:52 [Notification] Connected to server, downloading data...
+322 kilobyte received
+22.3.2020 21:04:52 [Notification] Connected to server, downloading data...
+339 kilobyte received
+22.3.2020 21:04:52 [Notification] Connected to server, downloading data...
+358 kilobyte received
+22.3.2020 21:04:52 [Notification] Connected to server, downloading data...
+374 kilobyte received
+22.3.2020 21:04:52 [Notification] Connected to server, downloading data...
+406 kilobyte received
+22.3.2020 21:04:53 [Notification] Connected to server, downloading data...
+399 kilobyte received
+22.3.2020 21:04:53 [Notification] Received server assets
+22.3.2020 21:04:53 [Notification] Connected to server, downloading data...
+403 kilobyte received
+22.3.2020 21:04:53 [Notification] Loaded 4000 item types from server
+22.3.2020 21:04:54 [Notification] Collected 688 shapes to tesselate.
+22.3.2020 21:04:56 [Notification] Composed 1 4096x2048 blocks texture atlases from 2432 textures (last textureid = 150)
+22.3.2020 21:04:59 [Notification] Composed 1 4096x2048 items texture atlases from 939 textures (last textureid = 151)
+22.3.2020 21:05:00 [Notification] Loaded 4000 block types from server
+22.3.2020 21:05:00 [Notification] Loaded Shaderprogramm for render pass mechpower. 
+22.3.2020 21:05:00 [Notification] Shader mechpower: Uniform locations for variables shadowRangeFar, toShadowMapSpaceMatrixFar, shadowRangeNear, toShadowMapSpaceMatrixNear, viewDistance, viewDistanceLod0, zNear, zFar, shadowMapFar, shadowIntensity, shadowMapWidthInv, shadowMapHeightInv, shadowMapNear not found (or not used).
+22.3.2020 21:05:00 [Notification] Initialized Music Engine
+22.3.2020 21:05:00 [Notification] Texture size is 32 so decal atlas size of 128x128 should suffice
+22.3.2020 21:05:03 [Notification] Composed 1 4096x2048 entities texture atlases from 134 textures (last textureid = 176)
+22.3.2020 21:05:03 [Notification] Server assets loaded
+22.3.2020 21:05:03 [Notification] Wow, client daytime drifted off significantly from server daytime (100763.8 mins)
+22.3.2020 21:05:05 [Notification] Received level finalize
+22.3.2020 21:05:05 [Notification] Loaded Shaderprogramm for render pass clouds. 
+22.3.2020 21:05:05 [Notification] Shader clouds: Uniform locations for variables sunColor, playerPos, cloudTileSize, shadowRangeFar, toShadowMapSpaceMatrixFar, shadowRangeNear, toShadowMapSpaceMatrixNear, viewDistance, viewDistanceLod0, glitchStrengthFL, pointLights, pointLightColors, pointLightQuantity, zNear, zFar, lightPosition, shadowMapFar, shadowIntensity, shadowMapWidthInv, shadowMapHeightInv, shadowMapNear, sky not found (or not used).
+22.3.2020 21:10:37 [Notification] Track music/daylight.ogg now started
+22.3.2020 21:35:57 [Notification] Destroying game session, waiting up to 200ms for client threads to exit
+22.3.2020 21:35:57 [Notification] Found 7 base assets in category lang
+22.3.2020 21:35:57 [Notification] Found 0 base assets in category journal
+22.3.2020 21:35:57 [Notification] Found 0 base assets in category patches
+22.3.2020 21:35:57 [Notification] Found 16 base assets in category config
+22.3.2020 21:35:57 [Notification] Found 0 base assets in category worldproperties
+22.3.2020 21:35:57 [Notification] Found 31 base assets in category sounds
+22.3.2020 21:35:57 [Notification] Found 2 base assets in category shapes
+22.3.2020 21:35:57 [Notification] Found 72 base assets in category shaders
+22.3.2020 21:35:57 [Notification] Found 13 base assets in category shaderincludes
+22.3.2020 21:35:57 [Notification] Found 60 base assets in category textures
+22.3.2020 21:35:57 [Notification] Found 3 base assets in category music
+22.3.2020 21:35:57 [Notification] Found 0 base assets in category dialog
+22.3.2020 21:35:58 [Notification] Found 7 base assets in category lang
+22.3.2020 21:35:58 [Notification] Found 0 base assets in category journal
+22.3.2020 21:35:58 [Notification] Found 0 base assets in category patches
+22.3.2020 21:35:58 [Notification] Found 16 base assets in category config
+22.3.2020 21:35:58 [Notification] Found 0 base assets in category worldproperties
+22.3.2020 21:35:58 [Notification] Found 31 base assets in category sounds
+22.3.2020 21:35:58 [Notification] Found 2 base assets in category shapes
+22.3.2020 21:35:58 [Notification] Found 72 base assets in category shaders
+22.3.2020 21:35:58 [Notification] Found 13 base assets in category shaderincludes
+22.3.2020 21:35:58 [Notification] Found 60 base assets in category textures
+22.3.2020 21:35:58 [Notification] Found 3 base assets in category music
+22.3.2020 21:35:58 [Notification] Found 0 base assets in category dialog
+22.3.2020 21:35:58 [Notification] Exiting current game to main menu
+22.3.2020 21:35:59 [Warning] Texture with texture id 392 is leaking memory, missing call to Dispose. Set env var TEXTURE_DEBUG_DISPOSE to get allocation trace.
+22.3.2020 21:35:59 [Warning] Texture with texture id 418 is leaking memory, missing call to Dispose. Set env var TEXTURE_DEBUG_DISPOSE to get allocation trace.
+22.3.2020 21:35:59 [Warning] Texture with texture id 389 is leaking memory, missing call to Dispose. Set env var TEXTURE_DEBUG_DISPOSE to get allocation trace.
+22.3.2020 21:35:59 [Warning] Texture with texture id 386 is leaking memory, missing call to Dispose. Set env var TEXTURE_DEBUG_DISPOSE to get allocation trace.
+22.3.2020 21:35:59 [Warning] Texture with texture id 387 is leaking memory, missing call to Dispose. Set env var TEXTURE_DEBUG_DISPOSE to get allocation trace.
+22.3.2020 21:35:59 [Warning] Texture with texture id 385 is leaking memory, missing call to Dispose. Set env var TEXTURE_DEBUG_DISPOSE to get allocation trace.
+22.3.2020 21:35:59 [Warning] Texture with texture id 435 is leaking memory, missing call to Dispose. Set env var TEXTURE_DEBUG_DISPOSE to get allocation trace.
+22.3.2020 21:35:59 [Warning] Texture with texture id 309 is leaking memory, missing call to Dispose. Set env var TEXTURE_DEBUG_DISPOSE to get allocation trace.
+22.3.2020 21:35:59 [Warning] Texture with texture id 365 is leaking memory, missing call to Dispose. Set env var TEXTURE_DEBUG_DISPOSE to get allocation trace.
+22.3.2020 21:35:59 [Warning] Texture with texture id 366 is leaking memory, missing call to Dispose. Set env var TEXTURE_DEBUG_DISPOSE to get allocation trace.
+22.3.2020 21:35:59 [Warning] Texture with texture id 364 is leaking memory, missing call to Dispose. Set env var TEXTURE_DEBUG_DISPOSE to get allocation trace.
+22.3.2020 21:35:59 [Warning] Texture with texture id 380 is leaking memory, missing call to Dispose. Set env var TEXTURE_DEBUG_DISPOSE to get allocation trace.
+22.3.2020 21:35:59 [Warning] Texture with texture id 363 is leaking memory, missing call to Dispose. Set env var TEXTURE_DEBUG_DISPOSE to get allocation trace.
+22.3.2020 21:36:01 [Notification] Exiting game now. Server running=False. Exit reason: Main screen quit button was pressed

@@ -1,0 +1,74 @@
+Version: v1.12.4 (Stable)2/23/2020 12:52:07 AM: Critical error occurred
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Vintagestory.Server.ServerSystemUpnp.findUpnpDeviceWithMonoNat()
+   at Vintagestory.Server.ServerSystemUpnp.<findUpnpDeviceAsync>d__11.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   at System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   at System.Threading.QueueUserWorkItemCallback.System.Threading.IThreadPoolWorkItem.ExecuteWorkItem()
+   at System.Threading.ThreadPoolWorkQueue.Dispatch()
+-------------------------------
+Version: v1.12.5 (Stable)2/27/2020 12:51:17 AM: Critical error occurred
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Vintagestory.API.Common.EntityItem.FromBytes(BinaryReader reader, Boolean forClient)
+   at Vintagestory.Client.NoObf.ClientSystemEntities.HandleEntitySpawnPacket(_ao2wb43bENgLDz41hdvNvtazUHu serverpacket)
+   at _cbodHKZNx5G5B0ajOJRiKOMUi6d._BhJwuFi29qoR0AeIVw0bFfSc9Yg(Single )
+   at _2LdR0X5PHgIsH0Qq61AbDPLAlFo._jHkasPdfycueGbkSaxMFKzSMfh3(Single )
+   at _lt8TgSVuBImgzFgAFlSeVzSFsSy._AjNkRnsn39TXAz2S4OVzXdXYu0h(Single )
+   at _lt8TgSVuBImgzFgAFlSeVzSFsSy._NbPATb9BXlxRc4ZhH2GgyFCUInp(Single )
+   at Vintagestory.Client.NoObf.ClientPlatformWindows.window_RenderFrame(Object sender, FrameEventArgs e)
+   at System.EventHandler`1.Invoke(Object sender, TEventArgs e)
+   at OpenTK.GameWindow.RaiseRenderFrame(Double elapsed, Double& timestamp)
+   at OpenTK.GameWindow.DispatchRenderFrame()
+   at OpenTK.GameWindow.Run(Double updates_per_second, Double frames_per_second)
+   at _hCuHXesCXlp0LGSdrsPFpw4up5n._mOm8EuKIvHpaJoztxNWRpAoOpbM(_55ISULxdcpPfF8D2JP831aWhOBe , String[] )
+   at _iCfIbY24GyBXP5lAwqsSlD9COxC._mOm8EuKIvHpaJoztxNWRpAoOpbM(ThreadStart )
+-------------------------------
+Version: v1.12.5 (Stable)3/6/2020 2:49:39 AM: Critical error occurred
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Vintagestory.Client.NoObf.ClientPlatformWindows.LoadTexture(IBitmap bmp, Boolean linearMag, Int32 clampMode, Boolean generateMipmaps)
+   at _mKeEWUbBZsjLS6VlGWgOoYQFk2K._KNs6g2GMtsTu5gnL4MXdRgZVlLh()
+   at _lt8TgSVuBImgzFgAFlSeVzSFsSy._HdDsdRJDH8nMF88r278C4eqdINGA()
+   at _lt8TgSVuBImgzFgAFlSeVzSFsSy._gjiBClIE7Yspuz65gCqPGSAnUYeb()
+   at _lt8TgSVuBImgzFgAFlSeVzSFsSy._NbPATb9BXlxRc4ZhH2GgyFCUInp(Single )
+   at Vintagestory.Client.NoObf.ClientPlatformWindows.window_RenderFrame(Object sender, FrameEventArgs e)
+   at System.EventHandler`1.Invoke(Object sender, TEventArgs e)
+   at OpenTK.GameWindow.RaiseRenderFrame(Double elapsed, Double& timestamp)
+   at OpenTK.GameWindow.DispatchRenderFrame()
+   at OpenTK.GameWindow.Run(Double updates_per_second, Double frames_per_second)
+   at _hCuHXesCXlp0LGSdrsPFpw4up5n._mOm8EuKIvHpaJoztxNWRpAoOpbM(_55ISULxdcpPfF8D2JP831aWhOBe , String[] )
+   at _iCfIbY24GyBXP5lAwqsSlD9COxC._mOm8EuKIvHpaJoztxNWRpAoOpbM(ThreadStart )
+-------------------------------
+Version: v1.12.5 (Stable)3/6/2020 2:50:02 AM: Critical error occurred
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Vintagestory.Client.NoObf.ClientPlatformWindows.LoadTexture(IBitmap bmp, Boolean linearMag, Int32 clampMode, Boolean generateMipmaps)
+   at _mKeEWUbBZsjLS6VlGWgOoYQFk2K._KNs6g2GMtsTu5gnL4MXdRgZVlLh()
+   at _lt8TgSVuBImgzFgAFlSeVzSFsSy._HdDsdRJDH8nMF88r278C4eqdINGA()
+   at _lt8TgSVuBImgzFgAFlSeVzSFsSy._gjiBClIE7Yspuz65gCqPGSAnUYeb()
+   at _lt8TgSVuBImgzFgAFlSeVzSFsSy._NbPATb9BXlxRc4ZhH2GgyFCUInp(Single )
+   at Vintagestory.Client.NoObf.ClientPlatformWindows.window_RenderFrame(Object sender, FrameEventArgs e)
+   at System.EventHandler`1.Invoke(Object sender, TEventArgs e)
+   at OpenTK.GameWindow.RaiseRenderFrame(Double elapsed, Double& timestamp)
+   at OpenTK.GameWindow.DispatchRenderFrame()
+   at OpenTK.GameWindow.Run(Double updates_per_second, Double frames_per_second)
+   at _hCuHXesCXlp0LGSdrsPFpw4up5n._mOm8EuKIvHpaJoztxNWRpAoOpbM(_55ISULxdcpPfF8D2JP831aWhOBe , String[] )
+   at _iCfIbY24GyBXP5lAwqsSlD9COxC._mOm8EuKIvHpaJoztxNWRpAoOpbM(ThreadStart )
+-------------------------------
+Version: v1.12.6 (Stable)3/13/2020 3:58:44 AM: Critical error occurred
+System.Net.Sockets.SocketException (0x80004005): A request to send or receive data was disallowed because the socket had already been shut down in that direction with a previous shutdown call
+   at System.Net.Sockets.Socket.BeginReceive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags, AsyncCallback callback, Object state)
+   at Vintagestory.Client.NoObf.ClientPlatformWindows.TCPNetworkConnection.OnBeginConnectCallBack(IAsyncResult result)
+   at System.Net.LazyAsyncResult.Complete(IntPtr userToken)
+   at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   at System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   at System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state)
+   at System.Net.ContextAwareResult.Complete(IntPtr userToken)
+   at System.Net.LazyAsyncResult.ProtectedInvokeCallback(Object result, IntPtr userToken)
+   at System.Net.Sockets.Socket.MultipleAddressConnectCallback(IAsyncResult result)
+   at System.Net.LazyAsyncResult.Complete(IntPtr userToken)
+   at System.Net.ContextAwareResult.Complete(IntPtr userToken)
+   at System.Net.LazyAsyncResult.ProtectedInvokeCallback(Object result, IntPtr userToken)
+   at System.Net.Sockets.Socket.ConnectCallback()
+   at System.Threading._ThreadPoolWaitOrTimerCallback.PerformWaitOrTimerCallback(Object state, Boolean timedOut)
+-------------------------------
